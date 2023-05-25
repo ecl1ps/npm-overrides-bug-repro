@@ -4,5 +4,8 @@
     "private": true,
     "workspaces": [
         "packages/*"
-    ]
+    ],
+    "overrides": {
+      "cssom": "0.3.6"
+    }
   }
