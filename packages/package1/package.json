@@ -1,0 +1,8 @@
+﻿{
+    "name": "package1",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+      "cssstyle": "2.2.0" 
+    }
+  }
